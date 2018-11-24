@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kuliner Indonesia</string>
+
+    <string-array name="nama">
+        <item>Rendang</item>
+        <item>Nasi Goreng</item>
+        <item>Bakso</item>
+        <item>Sate</item>
+        <item>Tempe</item>
+        <item>Mie Rebus</item>
+        <item>Soto</item>
+        <item>Gado gado</item>
+        <item>Gudeg</item>
+        <item>Sop Buntut</item>
+    </string-array>
+
+    <string-array name="info">
+        <item>Inilah kuliner khas Indonesia yang paling mendunia; rendang. Kenikmatan masakan asli dari Sumatera Barat ini pun pernah membuatnya berhasil bertengger di posisi puncak dalam daftar 50 makanan terlezat di dunia versi CNN pada tahun 2011 silam. Tak hanya itu, rendang juga disebut-sebut sebagai salah satu makanan terfavorit di dunia. Menu rendang pun saat ini sudah tak sulit lagi ditemukan di banyak restoran Indonesia di luar negeri.</item>
+        <item>Bisa dibilang, tak ada orang Indonesia yang tidak kenal nasi goreng. Masakan yang satu ini memang sudah biasa ditemukan dimana-mana, mulai dari warung makan kaki lima hingga di restoran bintang lima. Meski begitu, nasi goreng sudah sangat mendunia. Bahkan, orang sekelas Presiden Amerika Serikat Barack Obama pun hafal dengan makanan ini. Bahkan, dia pun sudah mengakui bahwa nasi goreng asli dari Indonesia benar-benar sedap dan lezat.</item>
+        <item>Kuah sop dan mie yang menjadi bagian dari masakan bakso, memang sudah biasa dijumpai di berbagai negara Asia. Namun, bakso sendiri merupakan salah satu kuliner khas Indonesia. Diolah dari campuran daging dan tepung, membuat bakso sangat nikmat saat disantap dengan kuah sop yang kaya rempah-rempah lokal. Presiden Amerika Serikat Barack Obama pun dengan bangga pernah mengatakan bahwa bakso adalah salah satu makanan favoritnya.</item>
+        <item>Sate Padang dan Sate Madura menjadi dua varian sate khas Indonesia yang sudah sejak lama terkenal. Belakangan ini, tak hanya wisatawan asing yang berkunjung ke Indonesia yang selalu mencari sate, tetapi juga sudah banyak restoran internasional yang memasukkan kuliner ini dalam daftar menu mereka. Bahkan, di New York, Amerika Serikat, salah satu restoran Indonesia bernama Satay Junction menjadikan sate ayam sebagai menu andalan.</item>
+        <item>Salah satu makanan khas Indonesia ini bisa diolah menjadi berbagai macam masakan. Meski di negeri sendiri sangat identik sebagai makanan ‘kelas bawah’, namun tempe sudah banyak dikenal oleh para koki internasional. Salah seorang koki asing bernama Eduard Quad pernah menyebut tempe sebagai idolanya dalam festival kuliner di Jakarta pada bulan Oktober 2012 lalu. Sedangkan di Jepang, ternyata tempe sudah sejak lama memikat masyarakatnya.
+
+</item>
+        <item>Sebenarnya, kuliner ini lebih dikenal pada salah satu merek produk makanan di Indonesia, Indomie. Namun, tetap saja menjadi masakan khas Indonesia, sebagai negeri asalnya. Indomie sendiri ternyata sudah diekspor ke sekitar 80 negara di dunia sejak 20 tahun yang lalu. Di sejumlah negara Timur Tengah dan Afrika, makanan ini sudah ada di hampir setiap supermarket. Bahkan, di Amerika Serikat Indomie menjadi salah satu kado Natal populer.</item>
+        <item>Ada banyak varian soto di Indonesia; Soto Jakarta, Soto Medan, Soto Padang, Coto Makassar, hingga soto ayam, soto sapi, soto babat. Setiap menu memang punya ciri khas masing-masing, namun tetap menunjukkan keaslian kuliner Indonesia yang kaya rempah-rempah dan begitu sedap saat disantap. Bahkan, masyarakat di kawasan Ibaraki, Jepang, sudah terbiasa menikmati soto yang diperkenalkan oleh para pelajar Indonesia di sana.</item>
+        <item>Gado-gado biasanya disajikan dengan menu sayur-sayuran dan kuah yang terbuat dari rempah-rempah asli Indonesia. Kuliner khas Nusantara ini merupakan salah satu menu favorit di restoran Indonesia di sejumlah negara di luar negeri. Dalam sebuah perlombaan memasak tingkat internasional yang diadakan di Napoli, Italia pada tahun 2010 silam, ternyata gado-gado muncul sebagai juara pertama pada kategori tampilan sajian estetika.</item>
+        <item>Makanan khas yang banyak ditemukan di Yogyakarta, Solo dan Jawa Timur ini merupakan olahan nangka muda yang dimasak dengan gula palem dan santan. Sebagai salah satu kuliner Indonesia yang sudah mendunia, cukup banyak negara yang ingin mengimpornya dalam bentuk makanan kaleng. Menariknya lagi, di Melbourne, Australia, ternyata ada salah satu restoran yang menyediakan gudeg asli Indonesia, tepatnya di kawasan Clayton Road.</item>
+        <item>Sop buntut terbuat dari potongan ekor sapi yang telah dibumbui dengan rempah-rempah dan dibakar, kemudian dimasukkan dalam kuah kaldu sapi dengan irisan kentang dan wortel, daun bawang, tomat, seledri, serta bawang goreng. Kedutaan Besar Republik Indonesia di Madrid, Spanyol pernah menyajikannya, dan membuat sekitar 300 orang di Negeri Matador itu jatuh hati pada kenikmatan sop buntut.
+
+</item>
+    </string-array>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
